@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Update
+Comment=My comment
+Icon=/home/pi/Desktop/Leak-Check/icon.png
+#Exec=lxterminal -t "Leak check update terminal" --working-directory=/usr/bin/ -e ./update.sh
+Path=/usr/bin/LeakCheck/
+Exec=update.sh
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;
